@@ -28,7 +28,7 @@
   <p align="left">
     💻 DevOps engineer<br>
     🇧🇷 Sad and brazilian<br>
-    💼 Working at Globo (*plim plim*)
+    💼 Working at Globo (<em>*plim plim*</em>)
   </p>
 </div>
 
@@ -36,7 +36,7 @@
 
 <h2 align="left">Currently learning</h2>
 <img
-  src="https://skillicons.dev/icons?i=powershell"
-  height="40" align="left" alt="Powershell logo">
-    Powershell
+  src="https://skillicons.dev/icons?i=azure"
+  height="40" align="left" alt="Azure">
+    Microsoft Azure
 </img>
