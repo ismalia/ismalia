@@ -36,7 +36,7 @@
 
 <h2 align="left">Currently learning</h2>
 <img
-  src="https://skillicons.dev/icons?i=azure"
-  height="40" align="left" alt="Azure">
-    Microsoft Azure
+  src="https://skillicons.dev/icons?i=nodejs"
+  height="40" align="left" alt="Node.js">
+    Node.js
 </img>
